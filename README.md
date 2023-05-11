@@ -19,6 +19,7 @@ takeover -- https://github.com/m4ll0k/takeover
 tko-subs -- https://github.com/anshumanbh/tko-subs
 sub404 -- https://github.com/r3curs1v3-pr0xy/sub404
 dnstake -- https://github.com/pwnesia/dnstake
+sub404 -- https://github.com/r3curs1v3-pr0xy/sub404
 
 JS
 subjs -- https://github.com/lc/subjs
@@ -36,3 +37,13 @@ oraylzer -- https://github.com/r0075h3ll/Oralyzer
 goohak -- https://github.com/1N3/Goohak
 sn1per -- https://github.com/1N3/Sn1per
 forbidden -- https://github.com/1N3/forbidden
+bruteX -- https://github.com/1N3/BruteX
+thetimemachine -- https://github.com/anmolksachan/thetimemachine
+reconftw -- https://github.com/six2dez/reconftw
+xspear -- https://github.com/hahwul/XSpear
+paramspider -- https://github.com/devanshbatham/ParamSpider
+grecon -- https://github.com/TebbaaX/GRecon
+endpointfinder -- https://github.com/tarunkant/EndPoint-Finder
+endext -- https://github.com/SirBugs/endext
+chopchop -- https://github.com/michelin/ChopChop
+
