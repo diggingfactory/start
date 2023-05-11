@@ -33,3 +33,6 @@ gau -- https://github.com/lc/gau
 dalfox -- https://github.com/hahwul/dalfox
 byp4xx -- https://github.com/lobuhi/byp4xx
 oraylzer -- https://github.com/r0075h3ll/Oralyzer
+goohak -- https://github.com/1N3/Goohak
+sn1per -- https://github.com/1N3/Sn1per
+forbidden -- https://github.com/1N3/forbidden
